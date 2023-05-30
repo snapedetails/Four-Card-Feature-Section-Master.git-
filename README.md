@@ -19,7 +19,7 @@ Solução para o desafio [Four card feature section](https://www.frontendmentor.
 
 - HTML5
 - CSS
-- Flexbox
+- Grid
 
 ## Autor
 
